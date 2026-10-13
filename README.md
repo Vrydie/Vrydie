@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://wa.me/573154899983?text=Hola%20Samuel,%20vi%20tu%20perfil%20de%20GitHub%20y%20quiero%20conversar%20sobre%20un%20proyecto"><img src="https://img.shields.io/badge/WhatsApp-Agendar%20Diagnóstico-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="https://linkedin.com/in/samuel-vargas"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/samuel-vargas-acevedo-147219346"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Status-Disponible%20para%20Consultoría-10B981?style=for-the-badge" alt="Status">
 </p>
 
@@ -86,7 +86,7 @@ flowchart LR
 
 ¿Tienes un negocio o una idea de automatización que quieras llevar a producción?
 - 💬 **WhatsApp Directo:** [Conversar por WhatsApp](https://wa.me/573154899983?text=Hola%20Samuel,%20quiero%20cotizar%20una%20automatización)
-- 💼 **LinkedIn:** [linkedin.com/in/samuel-vargas-acevedo-147219346](www.linkedin.com/in/samuel-vargas-acevedo-147219346)
+- 💼 **LinkedIn:** [linkedin.com/in/samuel-vargas-acevedo](https://www.linkedin.com/in/samuel-vargas-acevedo-147219346)
 - 🌐 **Portafolio:** [vrydie.github.io](https://vrydie.github.io)
 - 📧 **Email:** [samuel29va@gmail.com](mailto:samuel29va@gmail.com)
 
