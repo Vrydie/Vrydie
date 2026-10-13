@@ -86,9 +86,9 @@ flowchart LR
 
 ¿Tienes un negocio o una idea de automatización que quieras llevar a producción?
 - 💬 **WhatsApp Directo:** [Conversar por WhatsApp](https://wa.me/573154899983?text=Hola%20Samuel,%20quiero%20cotizar%20una%20automatización)
-- 💼 **LinkedIn:** [linkedin.com/in/samuel-vargas](https://linkedin.com/in/samuel-vargas)
+- 💼 **LinkedIn:** [linkedin.com/in/samuel-vargas-acevedo-147219346](www.linkedin.com/in/samuel-vargas-acevedo-147219346)
 - 🌐 **Portafolio:** [vrydie.github.io](https://vrydie.github.io)
-- 📧 **Email:** [samuel.vargas@ejemplo.com](mailto:samuel.vargas@ejemplo.com)
+- 📧 **Email:** [samuel29va@gmail.com](mailto:samuel29va@gmail.com)
 
 ---
 <p align="center">
